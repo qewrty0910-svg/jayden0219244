@@ -1,0 +1,6 @@
+{
+  "name": "사이렌 헤드의 숲",
+  "description": "폭우가 내리는 어두운 밤, 사이렌 헤드를 피해 산불감시탑에서 AK-47을 파밍하고 처치하는 2D 생존 호러 게임",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
